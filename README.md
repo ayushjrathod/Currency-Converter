@@ -1,2 +1,2 @@
 # Currency-Converter
-A currency converter web app.
+Currency Converter for API Practice.
